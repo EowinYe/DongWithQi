@@ -14,6 +14,18 @@
 		78A0E7C81F1BE01300970A61 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 78A0E7C61F1BE01300970A61 /* LaunchScreen.storyboard */; };
 		78A0E7D31F1BE01300970A61 /* DongWithQiTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78A0E7D21F1BE01300970A61 /* DongWithQiTests.swift */; };
 		78A0E7DE1F1BE01300970A61 /* DongWithQiUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78A0E7DD1F1BE01300970A61 /* DongWithQiUITests.swift */; };
+		78A0E7EC1F1D26E300970A61 /* BmobSDK.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 78A0E7EB1F1D26E300970A61 /* BmobSDK.framework */; };
+		78A0E7EF1F1D275500970A61 /* CoreLocation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 78A0E7EE1F1D275500970A61 /* CoreLocation.framework */; };
+		78A0E7F11F1D276E00970A61 /* Security.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 78A0E7F01F1D276E00970A61 /* Security.framework */; };
+		78A0E7F31F1D277F00970A61 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 78A0E7F21F1D277F00970A61 /* CoreGraphics.framework */; };
+		78A0E7F51F1D27A300970A61 /* MobileCoreServices.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 78A0E7F41F1D27A300970A61 /* MobileCoreServices.framework */; };
+		78A0E7F71F1D27AB00970A61 /* CFNetwork.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 78A0E7F61F1D27AB00970A61 /* CFNetwork.framework */; };
+		78A0E7F91F1D27B800970A61 /* CoreTelephony.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 78A0E7F81F1D27B800970A61 /* CoreTelephony.framework */; };
+		78A0E7FB1F1D27CA00970A61 /* SystemConfiguration.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 78A0E7FA1F1D27CA00970A61 /* SystemConfiguration.framework */; };
+		78A0E7FD1F1D27E100970A61 /* libz.1.2.5.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = 78A0E7FC1F1D27E100970A61 /* libz.1.2.5.tbd */; };
+		78A0E7FF1F1D280100970A61 /* libicucore.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = 78A0E7FE1F1D280100970A61 /* libicucore.tbd */; };
+		78A0E8011F1D282600970A61 /* libsqlite3.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = 78A0E8001F1D282600970A61 /* libsqlite3.tbd */; };
+		78A0E8031F1D283A00970A61 /* libc++.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = 78A0E8021F1D283A00970A61 /* libc++.tbd */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +59,19 @@
 		78A0E7D91F1BE01300970A61 /* DongWithQiUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DongWithQiUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		78A0E7DD1F1BE01300970A61 /* DongWithQiUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DongWithQiUITests.swift; sourceTree = "<group>"; };
 		78A0E7DF1F1BE01300970A61 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		78A0E7EB1F1D26E300970A61 /* BmobSDK.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = BmobSDK.framework; path = DongWithQi/BmobSDK.framework; sourceTree = "<group>"; };
+		78A0E7EE1F1D275500970A61 /* CoreLocation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreLocation.framework; path = System/Library/Frameworks/CoreLocation.framework; sourceTree = SDKROOT; };
+		78A0E7F01F1D276E00970A61 /* Security.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Security.framework; path = System/Library/Frameworks/Security.framework; sourceTree = SDKROOT; };
+		78A0E7F21F1D277F00970A61 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		78A0E7F41F1D27A300970A61 /* MobileCoreServices.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MobileCoreServices.framework; path = System/Library/Frameworks/MobileCoreServices.framework; sourceTree = SDKROOT; };
+		78A0E7F61F1D27AB00970A61 /* CFNetwork.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CFNetwork.framework; path = System/Library/Frameworks/CFNetwork.framework; sourceTree = SDKROOT; };
+		78A0E7F81F1D27B800970A61 /* CoreTelephony.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreTelephony.framework; path = System/Library/Frameworks/CoreTelephony.framework; sourceTree = SDKROOT; };
+		78A0E7FA1F1D27CA00970A61 /* SystemConfiguration.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SystemConfiguration.framework; path = System/Library/Frameworks/SystemConfiguration.framework; sourceTree = SDKROOT; };
+		78A0E7FC1F1D27E100970A61 /* libz.1.2.5.tbd */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.text-based-dylib-definition"; name = libz.1.2.5.tbd; path = usr/lib/libz.1.2.5.tbd; sourceTree = SDKROOT; };
+		78A0E7FE1F1D280100970A61 /* libicucore.tbd */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.text-based-dylib-definition"; name = libicucore.tbd; path = usr/lib/libicucore.tbd; sourceTree = SDKROOT; };
+		78A0E8001F1D282600970A61 /* libsqlite3.tbd */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.text-based-dylib-definition"; name = libsqlite3.tbd; path = usr/lib/libsqlite3.tbd; sourceTree = SDKROOT; };
+		78A0E8021F1D283A00970A61 /* libc++.tbd */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.text-based-dylib-definition"; name = "libc++.tbd"; path = "usr/lib/libc++.tbd"; sourceTree = SDKROOT; };
+		78A0E8041F1D2A5E00970A61 /* DongWithQi-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "DongWithQi-Bridging-Header.h"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +79,18 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				78A0E8031F1D283A00970A61 /* libc++.tbd in Frameworks */,
+				78A0E8011F1D282600970A61 /* libsqlite3.tbd in Frameworks */,
+				78A0E7FF1F1D280100970A61 /* libicucore.tbd in Frameworks */,
+				78A0E7FD1F1D27E100970A61 /* libz.1.2.5.tbd in Frameworks */,
+				78A0E7FB1F1D27CA00970A61 /* SystemConfiguration.framework in Frameworks */,
+				78A0E7F91F1D27B800970A61 /* CoreTelephony.framework in Frameworks */,
+				78A0E7F71F1D27AB00970A61 /* CFNetwork.framework in Frameworks */,
+				78A0E7F51F1D27A300970A61 /* MobileCoreServices.framework in Frameworks */,
+				78A0E7F31F1D277F00970A61 /* CoreGraphics.framework in Frameworks */,
+				78A0E7F11F1D276E00970A61 /* Security.framework in Frameworks */,
+				78A0E7EF1F1D275500970A61 /* CoreLocation.framework in Frameworks */,
+				78A0E7EC1F1D26E300970A61 /* BmobSDK.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -77,10 +114,13 @@
 		78A0E7B11F1BE01300970A61 = {
 			isa = PBXGroup;
 			children = (
+				78A0E7EB1F1D26E300970A61 /* BmobSDK.framework */,
 				78A0E7BC1F1BE01300970A61 /* DongWithQi */,
 				78A0E7D11F1BE01300970A61 /* DongWithQiTests */,
 				78A0E7DC1F1BE01300970A61 /* DongWithQiUITests */,
 				78A0E7BB1F1BE01300970A61 /* Products */,
+				78A0E7ED1F1D275500970A61 /* Frameworks */,
+				78A0E8041F1D2A5E00970A61 /* DongWithQi-Bridging-Header.h */,
 			);
 			sourceTree = "<group>";
 		};
@@ -123,6 +163,24 @@
 				78A0E7DF1F1BE01300970A61 /* Info.plist */,
 			);
 			path = DongWithQiUITests;
+			sourceTree = "<group>";
+		};
+		78A0E7ED1F1D275500970A61 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				78A0E8021F1D283A00970A61 /* libc++.tbd */,
+				78A0E8001F1D282600970A61 /* libsqlite3.tbd */,
+				78A0E7FE1F1D280100970A61 /* libicucore.tbd */,
+				78A0E7FC1F1D27E100970A61 /* libz.1.2.5.tbd */,
+				78A0E7FA1F1D27CA00970A61 /* SystemConfiguration.framework */,
+				78A0E7F81F1D27B800970A61 /* CoreTelephony.framework */,
+				78A0E7F61F1D27AB00970A61 /* CFNetwork.framework */,
+				78A0E7F41F1D27A300970A61 /* MobileCoreServices.framework */,
+				78A0E7F21F1D277F00970A61 /* CoreGraphics.framework */,
+				78A0E7F01F1D276E00970A61 /* Security.framework */,
+				78A0E7EE1F1D275500970A61 /* CoreLocation.framework */,
+			);
+			name = Frameworks;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -193,6 +251,7 @@
 				TargetAttributes = {
 					78A0E7B91F1BE01300970A61 = {
 						CreatedOnToolsVersion = 8.3.3;
+						LastSwiftMigration = 0830;
 						ProvisioningStyle = Automatic;
 					};
 					78A0E7CD1F1BE01300970A61 = {
@@ -414,10 +473,17 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_MODULES = YES;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/DongWithQi",
+				);
 				INFOPLIST_FILE = DongWithQi/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = EowinYe.DongWithQi;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OBJC_BRIDGING_HEADER = "DongWithQi-Bridging-Header.h";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 3.0;
 			};
 			name = Debug;
@@ -426,10 +492,16 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_MODULES = YES;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/DongWithQi",
+				);
 				INFOPLIST_FILE = DongWithQi/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = EowinYe.DongWithQi;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OBJC_BRIDGING_HEADER = "DongWithQi-Bridging-Header.h";
 				SWIFT_VERSION = 3.0;
 			};
 			name = Release;

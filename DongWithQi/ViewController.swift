@@ -12,6 +12,12 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+        //let a:BmobObject = BmobObject(className: "Data")
+        
+        //a.setObject("hello", forKey: "Content")
+        //a.saveInBackground()
+        //print("hello")
+        
         // Do any additional setup after loading the view, typically from a nib.
     }
 
