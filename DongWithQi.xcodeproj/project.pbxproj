@@ -7,6 +7,23 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		781D08AB1F9EF3E40085D5E6 /* BirthdayCake.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 781D08AA1F9EF3E40085D5E6 /* BirthdayCake.jpg */; };
+		781D08B31F9FB5310085D5E6 /* PlanTableView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 781D08B21F9FB5310085D5E6 /* PlanTableView.swift */; };
+		781D08B51F9FB5B90085D5E6 /* PlanItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 781D08B41F9FB5B90085D5E6 /* PlanItem.swift */; };
+		781D08B91FA0EC140085D5E6 /* Happy Birthday.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 781D08B81FA0EC140085D5E6 /* Happy Birthday.mp3 */; };
+		781D08BB1FA0ED4C0085D5E6 /* bgBlue.png in Resources */ = {isa = PBXBuildFile; fileRef = 781D08BA1FA0ED4C0085D5E6 /* bgBlue.png */; };
+		781D08BD1FA0F4690085D5E6 /* 1412472396.gif in Resources */ = {isa = PBXBuildFile; fileRef = 781D08BC1FA0F4690085D5E6 /* 1412472396.gif */; };
+		781D08BF1FA0FC4C0085D5E6 /* 文字.gif in Resources */ = {isa = PBXBuildFile; fileRef = 781D08BE1FA0FC4C0085D5E6 /* 文字.gif */; };
+		781D08C11FA0FF040085D5E6 /* lovebg.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 781D08C01FA0FF040085D5E6 /* lovebg.jpg */; };
+		781D08C31FA113B60085D5E6 /* NoteViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 781D08C21FA113B60085D5E6 /* NoteViewController.swift */; };
+		781D08C51FA2606D0085D5E6 /* PhotoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 781D08C41FA2606D0085D5E6 /* PhotoView.swift */; };
+		781D08C71FA2667C0085D5E6 /* IMG_2595.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 781D08C61FA2667C0085D5E6 /* IMG_2595.JPG */; };
+		781D08CB1FA2EEE10085D5E6 /* MoreView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 781D08CA1FA2EEE10085D5E6 /* MoreView.swift */; };
+		781D08CF1FA2F1AE0085D5E6 /* 爱是一道光_2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 781D08CE1FA2F1AE0085D5E6 /* 爱是一道光_2.jpg */; };
+		781D08D11FA2F4060085D5E6 /* IMG_4126.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 781D08D01FA2F4060085D5E6 /* IMG_4126.JPG */; };
+		781D08D31FA2FA150085D5E6 /* NoteBackground.png in Resources */ = {isa = PBXBuildFile; fileRef = 781D08D21FA2FA150085D5E6 /* NoteBackground.png */; };
+		781D08D71FA2FC650085D5E6 /* 爱心.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 781D08D61FA2FC650085D5E6 /* 爱心.jpg */; };
+		781D08DD1FA2FD3E0085D5E6 /* profile_bg.png in Resources */ = {isa = PBXBuildFile; fileRef = 781D08DC1FA2FD3E0085D5E6 /* profile_bg.png */; };
 		78A0E7BE1F1BE01300970A61 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78A0E7BD1F1BE01300970A61 /* AppDelegate.swift */; };
 		78A0E7C01F1BE01300970A61 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78A0E7BF1F1BE01300970A61 /* ViewController.swift */; };
 		78A0E7C31F1BE01300970A61 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 78A0E7C11F1BE01300970A61 /* Main.storyboard */; };
@@ -46,6 +63,23 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		781D08AA1F9EF3E40085D5E6 /* BirthdayCake.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = BirthdayCake.jpg; sourceTree = "<group>"; };
+		781D08B21F9FB5310085D5E6 /* PlanTableView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PlanTableView.swift; sourceTree = "<group>"; };
+		781D08B41F9FB5B90085D5E6 /* PlanItem.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PlanItem.swift; sourceTree = "<group>"; };
+		781D08B81FA0EC140085D5E6 /* Happy Birthday.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Happy Birthday.mp3"; sourceTree = "<group>"; };
+		781D08BA1FA0ED4C0085D5E6 /* bgBlue.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bgBlue.png; sourceTree = "<group>"; };
+		781D08BC1FA0F4690085D5E6 /* 1412472396.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = 1412472396.gif; sourceTree = "<group>"; };
+		781D08BE1FA0FC4C0085D5E6 /* 文字.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "文字.gif"; sourceTree = "<group>"; };
+		781D08C01FA0FF040085D5E6 /* lovebg.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = lovebg.jpg; sourceTree = "<group>"; };
+		781D08C21FA113B60085D5E6 /* NoteViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NoteViewController.swift; sourceTree = "<group>"; };
+		781D08C41FA2606D0085D5E6 /* PhotoView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PhotoView.swift; sourceTree = "<group>"; };
+		781D08C61FA2667C0085D5E6 /* IMG_2595.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = IMG_2595.JPG; sourceTree = "<group>"; };
+		781D08CA1FA2EEE10085D5E6 /* MoreView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MoreView.swift; sourceTree = "<group>"; };
+		781D08CE1FA2F1AE0085D5E6 /* 爱是一道光_2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "爱是一道光_2.jpg"; sourceTree = "<group>"; };
+		781D08D01FA2F4060085D5E6 /* IMG_4126.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = IMG_4126.JPG; sourceTree = "<group>"; };
+		781D08D21FA2FA150085D5E6 /* NoteBackground.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = NoteBackground.png; sourceTree = "<group>"; };
+		781D08D61FA2FC650085D5E6 /* 爱心.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "爱心.jpg"; sourceTree = "<group>"; };
+		781D08DC1FA2FD3E0085D5E6 /* profile_bg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = profile_bg.png; sourceTree = "<group>"; };
 		78A0E7BA1F1BE01300970A61 /* DongWithQi.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DongWithQi.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		78A0E7BD1F1BE01300970A61 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		78A0E7BF1F1BE01300970A61 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -143,6 +177,23 @@
 				78A0E7C41F1BE01300970A61 /* Assets.xcassets */,
 				78A0E7C61F1BE01300970A61 /* LaunchScreen.storyboard */,
 				78A0E7C91F1BE01300970A61 /* Info.plist */,
+				781D08AA1F9EF3E40085D5E6 /* BirthdayCake.jpg */,
+				781D08B21F9FB5310085D5E6 /* PlanTableView.swift */,
+				781D08B41F9FB5B90085D5E6 /* PlanItem.swift */,
+				781D08B81FA0EC140085D5E6 /* Happy Birthday.mp3 */,
+				781D08BA1FA0ED4C0085D5E6 /* bgBlue.png */,
+				781D08BC1FA0F4690085D5E6 /* 1412472396.gif */,
+				781D08BE1FA0FC4C0085D5E6 /* 文字.gif */,
+				781D08C01FA0FF040085D5E6 /* lovebg.jpg */,
+				781D08C21FA113B60085D5E6 /* NoteViewController.swift */,
+				781D08C41FA2606D0085D5E6 /* PhotoView.swift */,
+				781D08C61FA2667C0085D5E6 /* IMG_2595.JPG */,
+				781D08CE1FA2F1AE0085D5E6 /* 爱是一道光_2.jpg */,
+				781D08CA1FA2EEE10085D5E6 /* MoreView.swift */,
+				781D08D01FA2F4060085D5E6 /* IMG_4126.JPG */,
+				781D08D21FA2FA150085D5E6 /* NoteBackground.png */,
+				781D08DC1FA2FD3E0085D5E6 /* profile_bg.png */,
+				781D08D61FA2FC650085D5E6 /* 爱心.jpg */,
 			);
 			path = DongWithQi;
 			sourceTree = "<group>";
@@ -291,9 +342,21 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				781D08D71FA2FC650085D5E6 /* 爱心.jpg in Resources */,
+				781D08BF1FA0FC4C0085D5E6 /* 文字.gif in Resources */,
 				78A0E7C81F1BE01300970A61 /* LaunchScreen.storyboard in Resources */,
+				781D08C71FA2667C0085D5E6 /* IMG_2595.JPG in Resources */,
+				781D08DD1FA2FD3E0085D5E6 /* profile_bg.png in Resources */,
 				78A0E7C51F1BE01300970A61 /* Assets.xcassets in Resources */,
+				781D08BB1FA0ED4C0085D5E6 /* bgBlue.png in Resources */,
+				781D08AB1F9EF3E40085D5E6 /* BirthdayCake.jpg in Resources */,
+				781D08CF1FA2F1AE0085D5E6 /* 爱是一道光_2.jpg in Resources */,
+				781D08B91FA0EC140085D5E6 /* Happy Birthday.mp3 in Resources */,
+				781D08D11FA2F4060085D5E6 /* IMG_4126.JPG in Resources */,
+				781D08C11FA0FF040085D5E6 /* lovebg.jpg in Resources */,
+				781D08D31FA2FA150085D5E6 /* NoteBackground.png in Resources */,
 				78A0E7C31F1BE01300970A61 /* Main.storyboard in Resources */,
+				781D08BD1FA0F4690085D5E6 /* 1412472396.gif in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -318,8 +381,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				781D08CB1FA2EEE10085D5E6 /* MoreView.swift in Sources */,
 				78A0E7C01F1BE01300970A61 /* ViewController.swift in Sources */,
+				781D08B31F9FB5310085D5E6 /* PlanTableView.swift in Sources */,
 				78A0E7BE1F1BE01300970A61 /* AppDelegate.swift in Sources */,
+				781D08C51FA2606D0085D5E6 /* PhotoView.swift in Sources */,
+				781D08C31FA113B60085D5E6 /* NoteViewController.swift in Sources */,
+				781D08B51F9FB5B90085D5E6 /* PlanItem.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -579,6 +647,7 @@
 				78A0E7E41F1BE01300970A61 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		78A0E7E51F1BE01300970A61 /* Build configuration list for PBXNativeTarget "DongWithQiTests" */ = {
 			isa = XCConfigurationList;
@@ -587,6 +656,7 @@
 				78A0E7E71F1BE01300970A61 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		78A0E7E81F1BE01300970A61 /* Build configuration list for PBXNativeTarget "DongWithQiUITests" */ = {
 			isa = XCConfigurationList;
@@ -595,6 +665,7 @@
 				78A0E7EA1F1BE01300970A61 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
